@@ -16,10 +16,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 prose:
     ignore: [
-    'config.yml',
+    '_config.yml',
     'index.html',
     '/_includes',
     '/_layouts',
-    '/_sass'] 
+    '/_sass']
 # Build settings
 markdown: kramdown
